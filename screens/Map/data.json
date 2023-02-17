@@ -1,0 +1,2139 @@
+[
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; teste",
+        "codigo": "2866290486727939655",
+        "dataCadastro": "22/06/2022 11:34:34",
+        "previsaoExpiracao": "16/09/2022 21:05:49",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Gabriel Lucas"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "POO-0909"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.562553,
+            "longitude": -46.675478,
+            "logradouro": "Av. Rebouças, 1480 - Cerqueira César, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.58769,
+            "longitude": -46.664014,
+            "logradouro": "Parque Ibirapuera - Portão 8 - Ibirapuera, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2335125142646035601",
+            "nomeFantasia": "ALPHA6"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; TEST",
+        "codigo": "2869950760777422414",
+        "dataCadastro": "27/06/2022 12:46:52",
+        "previsaoExpiracao": "16/09/2022 21:07:09",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Elizabete Constantina"
+        },
+        "veiculoCliente": {
+            "marca": "PEUGEOT",
+            "modelo": "206",
+            "placa": "DNC-3329"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.568118,
+            "longitude": -46.685052,
+            "logradouro": "Av. Rebouças - Pinheiros, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "20",
+            "nomeFantasia": "Porto Seguro"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2865574610974283329",
+        "dataCadastro": "08/08/2022 17:14:02",
+        "previsaoExpiracao": "08/08/2022 23:54:02",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Abraão José"
+        },
+        "veiculoCliente": {
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "FUF-2159"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.657651,
+            "longitude": -46.712892,
+            "logradouro": "Rua Édson Carneiro, 606 - Jardim Promissao, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.507,
+            "longitude": -46.846,
+            "logradouro": "Rod. Pres. Castello Branco, 300 - Alphaville Empresarial, Barueri - SP, Brasil",
+            "cidade": "Barueri"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2",
+            "nomeFantasia": "Reboque.Me CallCenter"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asfdasfafsasfasf",
+        "codigo": "2903268783382599251",
+        "dataCadastro": "12/08/2022 12:03:50",
+        "previsaoExpiracao": "12/08/2022 18:43:50",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "TRANSPORTES DELLA VOLPE S A COMERCIO E INDUSTRIA"
+        },
+        "veiculoCliente": {
+            "marca": "DAF",
+            "modelo": "DAF/XF FTS 480",
+            "placa": "GEF-1B95"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.555771,
+            "longitude": -46.639557,
+            "logradouro": "São Paulo, SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -22.81094,
+            "longitude": -47.216678,
+            "logradouro": "MacPonta DAF Sumaré - Jardim Conceicao (Nova Veneza), Sumaré - SP, Brasil",
+            "cidade": "Sumaré"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "É necessário alguma assistência no motor do veículo",
+                "codigo": "TIPOASSISTENCIAMOTOR"
+            }
+        },
+        "empresa": {
+            "codigo": "2322661870558778503",
+            "nomeFantasia": "DAF Caminhões"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asdadsadsasd",
+        "codigo": "2903280993278367316",
+        "dataCadastro": "12/08/2022 12:28:06",
+        "previsaoExpiracao": "13/08/2022 12:28:06",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "placa": "GAA0G27"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.805229,
+            "longitude": -43.022232,
+            "logradouro": "Av. Manaus, 4 - Trindade, São Gonçalo - RJ, Brasil",
+            "cidade": "São Gonçalo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.571056,
+            "longitude": -46.644199,
+            "logradouro": "Av. Paulista, 4 - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "SEGURANÇA / Roubo - Furto",
+                "codigo": "KOVIMOTIVOASSISTENCIASEGURANCA6"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; .veículo BLINDADO. .RODAS TRAVADAS, LEVAR PATINS.TEST",
+        "codigo": "2903293362364749397",
+        "dataCadastro": "12/08/2022 12:52:40",
+        "previsaoExpiracao": "12/08/2022 19:32:40",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Alessandro Pedroso"
+        },
+        "veiculoCliente": {
+            "marca": "NISSAN",
+            "modelo": "LIVINA",
+            "placa": "KVF-4929"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.561198,
+            "longitude": -46.672527,
+            "logradouro": "Av. Rebouças, 1145 - Jardins, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.562553,
+            "longitude": -46.675478,
+            "logradouro": "Av. Rebouças, 1480 - Cerqueira César, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2",
+            "nomeFantasia": "Reboque.Me CallCenter"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; sadasdasdasdads",
+        "codigo": "2905643061369378393",
+        "dataCadastro": "15/08/2022 18:41:06",
+        "previsaoExpiracao": "16/08/2022 18:41:06",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE",
+            "placa": "GAA0G27"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.805229,
+            "longitude": -43.022232,
+            "logradouro": "Av. Manaus, 4 - Trindade, São Gonçalo - RJ, Brasil",
+            "cidade": "São Gonçalo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.766853,
+            "longitude": -53.320442,
+            "logradouro": "Av. Manaus, 5 - Zona I, Umuarama - PR, Brasil",
+            "cidade": "Umuarama"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "SEGURANÇA / Roubo - Furto",
+                "codigo": "KOVIMOTIVOASSISTENCIASEGURANCA6"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asdasdasdasd",
+        "codigo": "2911194540826170975",
+        "dataCadastro": "23/08/2022 10:30:54",
+        "previsaoExpiracao": "23/08/2022 17:10:54",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "MATHILDE MUNIZ"
+        },
+        "veiculoCliente": {
+            "marca": "Kia",
+            "modelo": "Stonic"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -22.964459,
+            "longitude": -43.172341,
+            "logradouro": "Av. Atlântica, 1020 - Copacabana, Rio de Janeiro - RJ, 22010-000, Brasil",
+            "cidade": "Rio de Janeiro"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "É necessário alguma assistência no motor do veículo",
+                "codigo": "TIPOASSISTENCIAMOTOR"
+            }
+        },
+        "empresa": {
+            "codigo": "2735238496074601893",
+            "nomeFantasia": "Kia Motors"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; sadasdasddasads",
+        "codigo": "2912086726438557280",
+        "dataCadastro": "24/08/2022 16:03:31",
+        "previsaoExpiracao": "25/08/2022 16:03:31",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE 1.6L MB5",
+            "placa": "VBZ2P85"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -22.805229,
+            "longitude": -43.022232,
+            "logradouro": "Av. Manaus, 4 - Trindade, São Gonçalo - RJ, Brasil",
+            "cidade": "São Gonçalo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "INADIMPLÊNCIA / Driver não colabora com devolução",
+                "codigo": "KOVIMOTIVOASSISTENCIAINADIMPLENCIA1"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; dasasdasdadsasd",
+        "codigo": "2912111323120670305",
+        "dataCadastro": "24/08/2022 16:52:23",
+        "previsaoExpiracao": "25/08/2022 16:52:23",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE 1.6L MB5",
+            "placa": "VBZ2P85"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -30.042551,
+            "longitude": -51.218451,
+            "logradouro": "Av. Venâncio Aires, 133 - Azenha, Porto Alegre - RS, Brasil",
+            "cidade": "Porto Alegre"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "INADIMPLÊNCIA / Driver não colabora com devolução",
+                "codigo": "KOVIMOTIVOASSISTENCIAINADIMPLENCIA1"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asdasdadsasddas",
+        "codigo": "2912117749029279330",
+        "dataCadastro": "24/08/2022 17:05:09",
+        "previsaoExpiracao": "25/08/2022 17:05:09",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE 1.6L MB5",
+            "placa": "VBZ2P85"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.563437,
+            "longitude": -46.676059,
+            "logradouro": "Av. Rebouças, 1585 - Pinheiros, São Paulo - SP, 05401-200, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "INADIMPLÊNCIA / Driver não colabora com devolução",
+                "codigo": "KOVIMOTIVOASSISTENCIAINADIMPLENCIA1"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asfdasfdfasasf",
+        "codigo": "2912131657693664867",
+        "dataCadastro": "24/08/2022 17:32:47",
+        "previsaoExpiracao": "25/08/2022 17:32:47",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE 1.6L MB5",
+            "placa": "VBZ2P85"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.658256,
+            "longitude": -46.713751,
+            "logradouro": "R. Édson Carneiro - Jardim Promissao, São Paulo - SP, 04753-170, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "INADIMPLÊNCIA / Driver não colabora com devolução",
+                "codigo": "KOVIMOTIVOASSISTENCIAINADIMPLENCIA1"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; dasdasas",
+        "codigo": "2912132003933460068",
+        "dataCadastro": "24/08/2022 17:33:28",
+        "previsaoExpiracao": "26/08/2022 17:42:17",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "KOVI RENTAL"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "VOYAGE 1.6L MB5",
+            "placa": "VBZ2P85"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Av. Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.658256,
+            "longitude": -46.713751,
+            "logradouro": "R. Édson Carneiro - Jardim Promissao, São Paulo - SP, 04753-170, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "INADIMPLÊNCIA / Driver não colabora com devolução",
+                "codigo": "KOVIMOTIVOASSISTENCIAINADIMPLENCIA1"
+            }
+        },
+        "empresa": {
+            "codigo": "2200248530130441273",
+            "nomeFantasia": "Kovi Tecnologia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente;  .RODAS TRAVADAS, LEVAR PATINS.TESTE",
+        "codigo": "2912823706529044070",
+        "dataCadastro": "25/08/2022 16:27:46",
+        "previsaoExpiracao": "02/09/2022 17:18:40",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "ALZIRA ELISABETE TERRA DE ARRUDA\t"
+        },
+        "veiculoCliente": {
+            "marca": "RENAULT",
+            "modelo": "LOGAN",
+            "placa": "FJO-9863"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.562501,
+            "longitude": -46.675654,
+            "logradouro": "Av. Rebouças, 1490 - Pinheiros, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.583051,
+            "longitude": -46.649036,
+            "logradouro": "Win Work Ibirapuera - Rua Doutor Amâncio de Carvalho - Vila Mariana, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "20",
+            "nomeFantasia": "Porto Seguro"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asd",
+        "codigo": "2912898353354249831",
+        "dataCadastro": "25/08/2022 18:56:04",
+        "previsaoExpiracao": "26/08/2022 01:36:04",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "ABCY  PARTICIPACOES LTDA"
+        },
+        "veiculoCliente": {
+            "marca": "AGRALE",
+            "modelo": "10000 / 10000 S  2P [CAMINHÃO]",
+            "placa": "XZX-3262"
+        },
+        "enderecoOrigem": {
+            "latitude": -5.371283,
+            "longitude": -49.124441,
+            "logradouro": "Av. Manaus, 4 - Belo Horizonte, Marabá - PA, Brasil",
+            "cidade": "Marabá"
+        },
+        "enderecoDestino": {
+            "latitude": -22.805229,
+            "longitude": -43.022232,
+            "logradouro": "Av. Manaus, 4 - Trindade, São Gonçalo - RJ, Brasil",
+            "cidade": "São Gonçalo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {
+                "descricao": "Assistência",
+                "codigo": "REQUISICAOTIPOASSISTENCIA"
+            },
+            "tipoMotivo": {
+                "descricao": "É necessário alguma assistência no sistema de pós tratamento do veículo",
+                "codigo": "TIPOASSISTENCIAPOSTRATAMENTO"
+            }
+        },
+        "empresa": {
+            "codigo": "2735238496074601893",
+            "nomeFantasia": "Kia Motors"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2920744523057337961",
+        "dataCadastro": "05/09/2022 14:45:01",
+        "previsaoExpiracao": "05/09/2022 21:25:01",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Adalto Junior"
+        },
+        "veiculoCliente": {
+            "marca": "HYUNDAI",
+            "modelo": "TUCSON",
+            "placa": "KUY-6655"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.562553,
+            "longitude": -46.675478,
+            "logradouro": "Av. Rebouças, 1480 - Cerqueira César, São Paulo - SP, 05402-100, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -23.333164,
+            "longitude": -46.826938,
+            "logradouro": "Av. Dr. José Luíz Leme Maciel, 395 - Parque Sao Roberto II, Cajamar - SP, Brasil",
+            "cidade": "Cajamar"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2",
+            "nomeFantasia": "Reboque.Me CallCenter"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2925697593839195757",
+        "dataCadastro": "12/09/2022 10:45:53",
+        "previsaoExpiracao": "12/09/2022 17:25:53",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Samuel"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "AEROSTAR",
+            "placa": "ADC-3123"
+        },
+        "enderecoOrigem": {
+            "latitude": -19.933243,
+            "longitude": -40.406666,
+            "logradouro": "Fundão, State of Espírito Santo, Brazil",
+            "cidade": "Fundão"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2040213376218436634",
+            "nomeFantasia": "Concremat Engenharia"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; dasadsadsadsdas",
+        "codigo": "2925946324756993646",
+        "dataCadastro": "12/09/2022 19:00:04",
+        "previsaoExpiracao": "13/09/2022 01:40:04",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "AEROSTAR",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Avenida Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {
+            "latitude": -10.926653,
+            "longitude": -37.072901,
+            "logradouro": "Aracaju, SE, Brasil",
+            "cidade": "Aracaju"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926627835588122223",
+        "dataCadastro": "13/09/2022 17:34:06",
+        "previsaoExpiracao": "14/09/2022 00:14:06",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet"
+        },
+        "veiculoCliente": {
+            "marca": "FIAT",
+            "modelo": "500",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.892044,
+            "longitude": -43.216539,
+            "logradouro": "Viaduto do Gasômetro - Caju, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926681067580561008",
+        "dataCadastro": "13/09/2022 19:19:51",
+        "previsaoExpiracao": "14/09/2022 01:59:52",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "MUSTANG",
+            "placa": "RFQ-6J63"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.583831,
+            "longitude": -46.683541,
+            "logradouro": "Avenida Brigadeiro Faria Lima - Itaim Bibi, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926693375002285681",
+        "dataCadastro": "13/09/2022 19:44:19",
+        "previsaoExpiracao": "14/09/2022 02:24:19",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.855362,
+            "longitude": -43.48813,
+            "logradouro": "Avenida Brasil - Bangu, Rio de Janeiro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926697836785440370",
+        "dataCadastro": "13/09/2022 19:53:11",
+        "previsaoExpiracao": "14/09/2022 02:33:11",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -3.73272,
+            "longitude": -38.527013,
+            "logradouro": "Fortaleza - State of Ceará, Brazil",
+            "cidade": "Fortaleza"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926701296708753011",
+        "dataCadastro": "13/09/2022 20:00:03",
+        "previsaoExpiracao": "14/09/2022 02:40:04",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "CHEVROLET",
+            "modelo": "CAMARO",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.583831,
+            "longitude": -46.683541,
+            "logradouro": "Avenida Brigadeiro Faria Lima - Itaim Bibi, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926734080789714548",
+        "dataCadastro": "13/09/2022 21:05:12",
+        "previsaoExpiracao": "14/09/2022 03:45:12",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Jonas "
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "ASPIRE",
+            "placa": "BBG-3928"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.583831,
+            "longitude": -46.683541,
+            "logradouro": "Avenida Brigadeiro Faria Lima - Itaim Bibi, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "20",
+            "nomeFantasia": "Porto Seguro"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926738247998510709",
+        "dataCadastro": "13/09/2022 21:13:28",
+        "previsaoExpiracao": "14/09/2022 03:53:28",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Avalinda"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA+",
+            "placa": "ABC-3477"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.011237,
+            "longitude": -43.304915,
+            "logradouro": "Avenida Olegário Maciel - Barra da Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2",
+            "nomeFantasia": "Reboque.Me CallCenter"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926738826837628534",
+        "dataCadastro": "13/09/2022 21:14:37",
+        "previsaoExpiracao": "19/09/2022 14:50:11",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Junior"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA+",
+            "placa": "ASC-3456"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.509151,
+            "longitude": -46.670497,
+            "logradouro": "Avenida Engenheiro Caetano Álvares - Limão, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2804803952535672232",
+            "nomeFantasia": "MAPFRE"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926740872299026039",
+        "dataCadastro": "13/09/2022 21:18:40",
+        "previsaoExpiracao": "14/09/2022 03:58:41",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "PAMPA",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Avenida Paulista - Bela Vista, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926811462032692856",
+        "dataCadastro": "13/09/2022 23:38:56",
+        "previsaoExpiracao": "14/09/2022 06:18:56",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Avanildo"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "BELINA",
+            "placa": "RED-4445"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.011237,
+            "longitude": -43.304915,
+            "logradouro": "Avenida Olegário Maciel - Barra da Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2926812914193012345",
+        "dataCadastro": "13/09/2022 23:41:49",
+        "previsaoExpiracao": "14/09/2022 00:11:49",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Robersaldo"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA+",
+            "placa": "VVV-4390"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.855362,
+            "longitude": -43.48813,
+            "logradouro": "Avenida Brasil - Bangu, Rio de Janeiro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2804803952535672232",
+            "nomeFantasia": "MAPFRE"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927247245000578682",
+        "dataCadastro": "14/09/2022 14:04:46",
+        "previsaoExpiracao": "14/09/2022 20:44:46",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Robersvaldo"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "CLUB",
+            "placa": "VCC-2342"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.855362,
+            "longitude": -43.48813,
+            "logradouro": "Avenida Brasil - Bangu, Rio de Janeiro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927250273355175547",
+        "dataCadastro": "14/09/2022 14:10:46",
+        "previsaoExpiracao": "14/09/2022 20:50:47",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet"
+        },
+        "veiculoCliente": {
+            "marca": "CHEVROLET",
+            "modelo": "CAMARO",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -16.658837,
+            "longitude": -49.260156,
+            "logradouro": "Rodoviária de Goiânia - Rua 44 - Setor Central, Goiânia - State of Goiás, Brazil",
+            "cidade": "Goiânia"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927290410587919996",
+        "dataCadastro": "14/09/2022 15:30:31",
+        "previsaoExpiracao": "14/09/2022 22:10:31",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "FIESTA",
+            "placa": "RFQ-6J63"
+        },
+        "enderecoOrigem": {
+            "latitude": -19.867737,
+            "longitude": -43.985322,
+            "logradouro": "Avenida Fleming - Ouro Preto, Belo Horizonte - State of Minas Gerais, Brazil",
+            "cidade": "Belo Horizonte"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927293719273019005",
+        "dataCadastro": "14/09/2022 15:37:06",
+        "previsaoExpiracao": "14/09/2022 22:17:06",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Robert De Niro"
+        },
+        "veiculoCliente": {
+            "marca": "MCLAREN",
+            "modelo": "720S",
+            "placa": "DFG-2344"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Avenida Paulista - Bela Vista, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2626375329681249538",
+            "nomeFantasia": "CarBuy"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927294795598534270",
+        "dataCadastro": "14/09/2022 15:39:14",
+        "previsaoExpiracao": "14/09/2022 22:19:14",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet"
+        },
+        "veiculoCliente": {
+            "marca": "RENAULT",
+            "modelo": "KWID",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.954943,
+            "longitude": -43.189244,
+            "logradouro": "Zona Sul, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927298238920791679",
+        "dataCadastro": "14/09/2022 15:46:05",
+        "previsaoExpiracao": "14/09/2022 22:26:05",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Vinicios Tolet"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "ASPIRE",
+            "placa": "AAA-1256"
+        },
+        "enderecoOrigem": {
+            "latitude": -12.977738,
+            "longitude": -38.501636,
+            "logradouro": "Salvador, State of Bahia, Brazil",
+            "cidade": "Salvador"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927301571018495616",
+        "dataCadastro": "14/09/2022 15:52:42",
+        "previsaoExpiracao": "14/09/2022 16:22:42",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Joelson"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "AEROSTAR",
+            "placa": "SSS-3564"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.911813,
+            "longitude": -43.221335,
+            "logradouro": "Veiga de Almeida University - UVA - Rua Ibituruna - Maracanã, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2804803952535672232",
+            "nomeFantasia": "MAPFRE"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927305749006653057",
+        "dataCadastro": "14/09/2022 16:00:59",
+        "previsaoExpiracao": "28/09/2022 19:06:28",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "MUSTANG",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.56958,
+            "longitude": -46.478516,
+            "logradouro": "Xaréu Restaurante - Avenida Maria Luiza Americano - Jardim Nossa Senhora do Carmo, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927312003124958850",
+        "dataCadastro": "14/09/2022 16:13:25",
+        "previsaoExpiracao": "14/09/2022 22:53:25",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "BELINA",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.589017,
+            "longitude": -46.682197,
+            "logradouro": "Dasian - Avenida Brigadeiro Faria Lima - Itaim Bibi, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Minha Bateria está fraca",
+            "codigo": "BATERIA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927322634939012739",
+        "dataCadastro": "14/09/2022 16:33:38",
+        "previsaoExpiracao": "14/09/2022 23:14:32",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "ROYAL ENFIELD",
+            "modelo": "CLASSIC/CLASSIC CHROME",
+            "placa": "RFQ-6J63"
+        },
+        "enderecoOrigem": {
+            "latitude": -3.73272,
+            "longitude": -38.527013,
+            "logradouro": "Fortaleza - State of Ceará, Brazil",
+            "cidade": "Fortaleza"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Troque o meu Pneu",
+            "codigo": "TROCAPNEU"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; adssadasdadsdas",
+        "codigo": "2927330885789292164",
+        "dataCadastro": "14/09/2022 16:50:53",
+        "previsaoExpiracao": "14/09/2022 23:30:56",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "XZX-4356"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Avenida Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente;  Levar máquina de cartão;",
+        "codigo": "2927337683128686213",
+        "dataCadastro": "14/09/2022 17:03:54",
+        "previsaoExpiracao": "14/09/2022 23:44:26",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "AEROSTAR",
+            "placa": "XZH-4575"
+        },
+        "enderecoOrigem": {
+            "latitude": -5.371283,
+            "longitude": -49.124441,
+            "logradouro": "Av. Manaus, 4 - Belo Horizonte, Marabá - PA, Brasil",
+            "cidade": "Marabá"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927343873233524358",
+        "dataCadastro": "14/09/2022 17:16:44",
+        "previsaoExpiracao": "14/09/2022 23:56:45",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "FERRARI",
+            "modelo": "550",
+            "placa": "RFQ-6J63"
+        },
+        "enderecoOrigem": {
+            "latitude": -25.63935,
+            "longitude": -49.182015,
+            "logradouro": "Aker Solutions do Brasil - Rua Antonio Singer - Miringuava, São José dos Pinhais - State of Paraná, Brazil",
+            "cidade": "São José dos Pinhais"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Minha Bateria está fraca",
+            "codigo": "BATERIA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927347372021257863",
+        "dataCadastro": "14/09/2022 17:23:42",
+        "previsaoExpiracao": "15/09/2022 00:03:42",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent"
+        },
+        "veiculoCliente": {
+            "marca": "IVECO",
+            "modelo": "DAILY CHASSI 70C16 HD MASSIMO 2P [CAMINHÃO]",
+            "placa": "RFQ-6J63"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.855362,
+            "longitude": -43.48813,
+            "logradouro": "Avenida Brasil - Bangu, Rio de Janeiro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "cidade": "Rio de Janeiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; asdasddas",
+        "codigo": "2927413596658865800",
+        "dataCadastro": "14/09/2022 19:35:14",
+        "previsaoExpiracao": "15/09/2022 02:15:16",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Rent",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA",
+            "placa": "XZX-4574"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.565739,
+            "longitude": -46.651238,
+            "logradouro": "Avenida Paulista - Bela Vista, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927871325332575881",
+        "dataCadastro": "15/09/2022 10:44:42",
+        "previsaoExpiracao": "15/09/2022 17:24:42",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA+",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.597409,
+            "longitude": -46.68629,
+            "logradouro": "Ford Brasil - Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927873486204442250",
+        "dataCadastro": "15/09/2022 10:48:59",
+        "previsaoExpiracao": "15/09/2022 17:28:59",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "CARGO 2629 E 6X4 TURBO 2P [CAMINHÃO]",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -12.997569,
+            "longitude": -38.464894,
+            "logradouro": "Fiesta Bahia Hotel - Avenida Antônio Carlos Magalhães - Itaigara, Salvador - State of Bahia, Brazil",
+            "cidade": "Salvador"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927875004232111755",
+        "dataCadastro": "15/09/2022 10:52:00",
+        "previsaoExpiracao": "15/09/2022 17:32:00",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "COURIER",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -22.227901,
+            "longitude": -45.9406,
+            "logradouro": "Faculty of Law of the South of Minas - Avenida Doutor João Beraldo - Centro, Pouso Alegre - State of Minas Gerais, Brazil",
+            "cidade": "Pouso Alegre"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927876896500749964",
+        "dataCadastro": "15/09/2022 10:55:46",
+        "previsaoExpiracao": "15/09/2022 17:35:46",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "KA+",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -3.830038,
+            "longitude": -55.496761,
+            "logradouro": "Fordlândia - Aveiro, State of Pará, Brazil",
+            "cidade": "Aveiro"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927885176677602957",
+        "dataCadastro": "15/09/2022 11:12:13",
+        "previsaoExpiracao": "15/09/2022 17:52:13",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "IVECO",
+            "modelo": "DAILY GRAN FURGONE 55C17 4P [CAMINHÃO]",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -12.997569,
+            "longitude": -38.464894,
+            "logradouro": "Fiesta Bahia Hotel - Avenida Antônio Carlos Magalhães - Itaigara, Salvador - State of Bahia, Brazil",
+            "cidade": "Salvador"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Guincho para Subsolo",
+            "codigo": "SUBSOLO"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927971218218817166",
+        "dataCadastro": "15/09/2022 14:03:10",
+        "previsaoExpiracao": "15/09/2022 20:43:10",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Localiza Fleet",
+            "sobrenome": ""
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "COURIER",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -20.284266,
+            "longitude": -50.246785,
+            "logradouro": "Fernandópolis, State of São Paulo, Brazil",
+            "cidade": "Fernandópolis"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Estou sem combustível",
+            "codigo": "PANESECA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2927972332838327951",
+        "dataCadastro": "15/09/2022 14:05:23",
+        "previsaoExpiracao": "19/09/2022 20:59:57",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Viniciolas"
+        },
+        "veiculoCliente": {
+            "marca": "FORD",
+            "modelo": "CARGO 2629 E 6X4 TURBO 2P [CAMINHÃO]",
+            "placa": "QPU-9470"
+        },
+        "enderecoOrigem": {
+            "latitude": -23.497335,
+            "longitude": -46.610927,
+            "logradouro": "Fordetem Comércio e Distribuição - Avenida General Ataliba Leonel - Carandiru, São Paulo - State of São Paulo, Brazil",
+            "cidade": "São Paulo"
+        },
+        "enderecoDestino": {},
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Minha Bateria está fraca",
+            "codigo": "BATERIA"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2824375196939457961",
+            "nomeFantasia": "Localiza Fleet"
+        }
+    },
+    {
+        "observacao": "Fazer checklist com assinatura do cliente; ",
+        "codigo": "2867081274126767689",
+        "dataCadastro": "16/09/2022 14:25:52",
+        "previsaoExpiracao": "16/09/2022 21:05:52",
+        "usuarioResponsavelAcionamento": {},
+        "statusSolicitacao": "Expirada",
+        "cliente": {
+            "nome": "Samue Freire"
+        },
+        "veiculoCliente": {
+            "marca": "VOLKSWAGEN",
+            "modelo": "GOL",
+            "placa": "REB-1111"
+        },
+        "enderecoOrigem": {
+            "latitude": -30.042551,
+            "longitude": -51.218451,
+            "logradouro": "Av. Venâncio Aires, 133 - Azenha, Porto Alegre - RS, Brasil",
+            "cidade": "Porto Alegre"
+        },
+        "enderecoDestino": {
+            "latitude": -23.657651,
+            "longitude": -46.712892,
+            "logradouro": "Rua Édson Carneiro, 606 - Jardim Promissao, São Paulo - SP, Brasil",
+            "cidade": "São Paulo"
+        },
+        "respostaAceita": {
+            "parceiro": {}
+        },
+        "tipoServico": {
+            "descricao": "Preciso de um Reboque",
+            "codigo": "REBOQUE"
+        },
+        "atendimento": {
+            "tipoRequisicao": {},
+            "tipoMotivo": {}
+        },
+        "empresa": {
+            "codigo": "2",
+            "nomeFantasia": "Reboque.Me CallCenter"
+        }
+    }
+]

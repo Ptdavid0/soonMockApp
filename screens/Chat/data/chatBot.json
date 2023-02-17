@@ -1,0 +1,62 @@
+{
+  "chatBot": {
+    "stateOne": [
+      {
+        "text": "Ola"
+      },
+      {
+        "text": "Seja bem vindo ao cadastro de novos usuarios !"
+      },
+      {
+        "text": "Qual o seu nome ?"
+      }
+    ],
+    "stateTwo": [
+      {
+        "text": "name"
+      }
+    ],
+    "stateThree": [
+      {
+        "specialInfo": "name",
+        "text": "É um prazer ter você conosco"
+      },
+      {
+        "text": "Para dar-mos procedimento, fique com seus documentos em mãos !"
+      },
+      {
+        "text": "Qual a sua data de nascimento ?"
+      }
+    ],
+    "stateFour": [
+      {
+        "text": "dateOfBirth"
+      }
+    ],
+    "stateFive": [
+      {
+        "text": "Agora tire uma foto de seu rosto para utilizarmos a verificacao facial"
+      }
+    ],
+    "stateSix": [
+      {
+        "text": "faceImage"
+      }
+    ],
+    "stateSeven": [
+      {
+        "text": "Agora adicione uma imagem do seu veiculo"
+      }
+    ],
+    "stateEight": [
+      {
+        "text": "carPhoneImage"
+      }
+    ],
+    "stateNine": [
+      {
+        "text": "Obrigado por se cadastrar"
+      }
+    ]
+  }
+}
